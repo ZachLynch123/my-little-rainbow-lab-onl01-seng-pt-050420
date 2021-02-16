@@ -1,7 +1,7 @@
 # My Little Rainbow
 
 ## Problem Statement
-
+ 
 In this lab, we're going to make a rainbow with HTML `<div>` elements. And while
 we do it we're going to learn about HTML elements, CSS styling, CSS selectors,
 how color works in CSS, and importing stylesheets.
